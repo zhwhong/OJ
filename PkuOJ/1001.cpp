@@ -231,7 +231,7 @@ const BigNum operator*(const BigNum& lhs, const BigNum& rhs)
 }
 int main()
 {
-    //freopen("test.txt","r",stdin);
+    // freopen("test.txt","r",stdin);
     char s[6];
     int i;
     while(scanf("%s%d", s, &n)!=EOF)
@@ -254,6 +254,6 @@ int main()
             delete a, b;
         }
     }
-    //fclose(stdin);
+    // fclose(stdin);
     return 0;
 }
