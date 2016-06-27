@@ -1,2 +1,2 @@
 # OJ
-##Some OJ test(include PKUOJ，LeetCodeOJ，CCF etc.) 
+##Some OJ tests (include PKUOJ，LeetCodeOJ，CCF etc.) 
